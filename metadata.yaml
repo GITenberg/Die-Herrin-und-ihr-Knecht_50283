@@ -1,4 +1,8 @@
 _repo: Die-Herrin-und-ihr-Knecht_50283
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50283-h/images/cover.jpg
 creator:
   author:
     agent_name: Engel, Georg
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7889
     wikipedia: http://de.wikipedia.org/wiki/Georg_Engel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50283#Die-Herrin-und-ihr-Knecht
 gutenberg_issued: '2015-11-28'
 gutenberg_type: Text
 identifiers:
